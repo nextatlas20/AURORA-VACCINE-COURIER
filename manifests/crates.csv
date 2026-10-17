@@ -1,0 +1,13 @@
+crate_id,clinic,vaccine,units,min_c,max_c,packed_at,revision
+VC-301,Northside,Rabies,120,2.0,8.0,2032-03-14T08:00Z,1
+VC-302,Lakeside,MMR,75,2.0,8.0,2032-03-14T09:00Z,1
+VC-303,Hilltop,Influenza,60,2.0,8.0,2032-03-14T07:30Z,1
+VC-304,Northside,Varicella,40,-15.0,-10.0,2032-03-14T08:30Z,1
+VC-305,Westgate,HPV,95,2.0,8.0,2032-03-14T10:00Z,1
+bad-id,Riverside,Rabies,10,2.0,8.0,2032-03-14T08:00Z,1
+VC-307,Riverside,MMR,30,2.0,8.0,2032-03-15T08:00Z,1
+VC-302,Lakeside,MMR,80,2.0,8.0,2032-03-14T09:00Z,2
+VC-305,Eastgate,HPV,100,2.0,8.0,2032-03-14T10:00Z,2
+VC-306,Eastgate,HepB,50,2.0,8.0,2032-03-14T11:00Z,1
+VC-306,Eastgate,HepB,0,2.0,8.0,2032-03-14T11:00Z,2
+VC-308,Southbank,Polio,20,8.0,2.0,2032-03-14T09:00Z,1
