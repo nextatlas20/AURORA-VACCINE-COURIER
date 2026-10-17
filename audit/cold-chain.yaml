@@ -1,0 +1,50 @@
+cutoff: 2032-03-14T14:00Z
+crates:
+  - crate_id: VC-301
+    clinic: Northside
+    vaccine: Rabies
+    status: BREACH
+    reading_count: 2
+    last_observed_at: 2032-03-14T12:10Z
+    excursion_c: 0.7
+    units: 120
+  - crate_id: VC-304
+    clinic: Northside
+    vaccine: Varicella
+    status: BREACH
+    reading_count: 2
+    last_observed_at: 2032-03-14T13:50Z
+    excursion_c: 0.6
+    units: 40
+  - crate_id: VC-305
+    clinic: Eastgate
+    vaccine: HPV
+    status: BREACH
+    reading_count: 3
+    last_observed_at: 2032-03-14T13:40Z
+    excursion_c: 1.2
+    units: 100
+  - crate_id: VC-303
+    clinic: Hilltop
+    vaccine: Influenza
+    status: NO_DATA
+    reading_count: 0
+    last_observed_at: NONE
+    excursion_c: 0.0
+    units: 60
+  - crate_id: VC-306
+    clinic: Eastgate
+    vaccine: HepB
+    status: WATCH
+    reading_count: 1
+    last_observed_at: 2032-03-14T11:30Z
+    excursion_c: 0.0
+    units: 50
+  - crate_id: VC-302
+    clinic: Lakeside
+    vaccine: MMR
+    status: CLEAR
+    reading_count: 2
+    last_observed_at: 2032-03-14T13:20Z
+    excursion_c: 0.0
+    units: 80
